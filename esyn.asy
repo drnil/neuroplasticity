@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -57 0 -64 0
+LINE Normal 57 -16 64 -16
+LINE Normal 57 16 64 16
+RECTANGLE Normal 57 48 -57 -32
+TEXT -49 32 Left 2 Synapse
+PIN -64 0 LEFT 12
+PINATTR PinName AP
+PINATTR SpiceOrder 1
+PIN 64 -16 RIGHT 12
+PINATTR PinName EPSP
+PINATTR SpiceOrder 2
+PIN 64 16 RIGHT 12
+PINATTR PinName w
+PINATTR SpiceOrder 3
