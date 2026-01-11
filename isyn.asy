@@ -2,11 +2,10 @@ Version 4
 SymbolType BLOCK
 LINE Normal -57 0 -64 0
 LINE Normal 57 0 64 0
-RECTANGLE Normal 57 48 -57 -32
-TEXT -42 32 Left 2 Synapse
+RECTANGLE Normal 57 32 -57 -32
 PIN -64 0 LEFT 12
 PINATTR PinName AP
 PINATTR SpiceOrder 1
 PIN 64 0 RIGHT 12
-PINATTR PinName IPSP
+PINATTR PinName IPSC
 PINATTR SpiceOrder 2
